@@ -7,7 +7,7 @@ mv: rename devops-journey/Day-01/Day-02 to devops-journey: No such file or direc
 
 **(Diagnosis):** Realized I was trying to move | `devops-journey` | into | `devops-journey` | which wouldn't make sense to add the main file inside of the main file. I also forgot the `.` This can be realized by seeing that `coreylaw@Coreys-MackBook-Air devops-journey %` directory is showing im in the devops-journey branch already.
 
-**(Solution):** ```mv Day01/Day-02 .``` 
+**(Solution):** ```mv Day-01/Day-02 .``` 
 
 -----
 
