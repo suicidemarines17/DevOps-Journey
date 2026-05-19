@@ -39,7 +39,7 @@ Setting up a local development workspace from scratch on a MacBook Air introduce
 
 ---
 
-## 🧠 Key Takeaways For Junior Engineers
+##  Key Takeaways For Junior Engineers
 1. **The Terminal is Case and Space Sensitive:** A single uppercase letter out of place or a missing space in a `cd ..` string will halt your entire execution pipeline.
 
 2. **Account vs. Repository Mapping:** Your computer doesn't just need a map to the main server cluster city (GitHub profile account); it must possess the direct coordinate path map string to the specific neighborhood house file storage vault (`/DevOps-Journey.git`).
