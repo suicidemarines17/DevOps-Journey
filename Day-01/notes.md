@@ -5,7 +5,7 @@ Today I wanted to set up my GitHub and VS code account as well as set up a repos
 ##  Retrospective: Obstacles Overcome & Key Solutions
 Setting up a local development workspace from scratch on a MacBook Air introduces several unique configuration friction points. Below is a detailed breakdown of the exact technical challenges I faced during my initial setup, how I diagnosed them, and the solutions implemented to resolve them.
 
-### 💥 Challenge 1: The "Illegal Option" Terminal Error
+###  Challenge 1: The "Illegal Option" Terminal Error
 *   **The Problem:** When executing the `mkdir -p` command layout to establish my directory paths, the Zsh terminal outputted an `illegal option` warning.
 *   **The Diagnosis:** This was caused by a minor syntax and spacing layout error when inputting advanced command modifiers into the native terminal shell environment.
 *   **The Solution:** Simplified the initialization process. Broke the folder creation execution flow into sequential steps using native directory commands:
