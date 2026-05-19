@@ -2,7 +2,7 @@
 
 # Feel free to contact me on [My LinkedIn](https://www.linkedin.com/in/corey-law-4104b1407) with any questions or opportunities.
 
-## I will be documenting my full process-- from failures, mistakes, important learning lessions, ect., until I land a role as a Cloud Engineer. As of 6/18/26 I have zero experience in the IT realm.
+## I will be documenting my full process-- from failures, mistakes, important learning lessions, ect., until I land a role as a Cloud Engineer. As of 5/18/26 I have zero experience in the IT realm.
 
 
 
