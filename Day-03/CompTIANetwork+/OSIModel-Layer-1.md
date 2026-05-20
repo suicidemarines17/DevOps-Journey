@@ -13,7 +13,7 @@ The OSI Model is common way to describe a broad overview of network operations a
 
 * Translates data into signals through **Copper Cables** by  **electric voltage**, **Fiber-Optic** by **light-pulses**, and **wirelessly** using **radio frequencies** 
 
-**Physical devices** like hubs, repeaters, cables (copper.fiber), wireless raido waves
+**Physical devices** like hubs, repeaters, cables (copper/fiber), wireless raido waves
 
 When troubleshooting, always verify physical connectivity first: Cables plugged in, link lights blinking, no damaged hardware, ect.
 
@@ -23,7 +23,7 @@ When troubleshooting, always verify physical connectivity first: Cables plugged 
 
  ### Cable Types: UTP vs. STP
 
- 
+
 
 
 
