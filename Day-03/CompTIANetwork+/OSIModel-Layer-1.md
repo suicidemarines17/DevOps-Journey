@@ -23,6 +23,36 @@ When troubleshooting, always verify physical connectivity first: Cables plugged 
 
  ### Cable Types: UTP vs. STP
 
+ 1. ### **UTP (Unshielded Twisted Pair)**
+
+ Most common type of network cable, most standard ethernet home cables use UTP.
+
+ **(How it works):** Contains pairs of copper wires that are twisted around each other. **Twisting helps cancel out minor electrical interference from the wires next to them.**
+
+
+ * **No extra protection or metal foil inside the cable wrapper (unshielded)**
+
+ **Pros:** Cheap, highly flexible, thin, easy to install around tight corners.
+
+ **Cons:** Vulnerable to outside electrical interference.
+
+**Standard Uses:** Standard offices, homes, and schools where there is minimum electrical interference.
+
+ 2. ### **STP (Shielded Twisted Pair)**
+
+Heavy duty network cable designed for harsh environments.
+
+**(How it works):** Has same twisted pairs of wires in UTP, but **adds a layer of metal foil or braided shielding** wrapped around the wires inside the cable jacket.
+
+* **Metal layer acts as a barrier that blocks outside electrical noise**
+
+**Pros:** Excellent protection against heavy interference
+
+**Cons:** Expensive, thick, stiff, and difficult to bend around corners
+
+**Standard Uses:** Factory floors, server rooms with large power grids, running cables through walls next to electrical lines
+
+
 
 
 
